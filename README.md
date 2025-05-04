@@ -86,17 +86,6 @@ This project uses the [Twilio Java SDK](https://www.twilio.com/docs/libraries/ja
 
 ---
 
-## 🔐 Note on Security
-
-Never expose your Twilio credentials in public repositories. Use environment variables or external config files in production.
-
----
-
-## 📸 Demo (Optional)
-_Add screenshots, logs, or a video demo here if you have one._
-
----
-
 ## 📃 License
 
 This project is for educational and demonstration purposes.
